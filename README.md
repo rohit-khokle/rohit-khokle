@@ -25,7 +25,9 @@ Oracle 12c, MySQL, PostgreSQL MongoDB, ELK(Elasticsearch, Logstash, Kibana) stac
 - &nbsp; Cloud Technologies: AWS, Apache Hadoop
 - &nbsp; SDLC Tools: Agile(Scrum),Iterative Waterfall, TDD, System Design Principles
 - &nbsp; Frameworks and Tools: Spring Boot, Microservices, SOAP, REST APIs, Git, SVN, BitBucket, JUnit, Jira
-
+- &nbsp; Certifications: AWS Cloud Architect Associate - https://www.credly.com/badges/349038d5-35b7-496a-ad79-193770d6f3f3/
+      
+      
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitkhokle/)
