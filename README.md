@@ -18,8 +18,8 @@
     <td> <h3> 👨🏻‍💻 &nbsp;Technical Skills </h3>
 
 - &nbsp; Programming Languages: Java8, Python3
-- &nbsp; Web Design Tools : 
-      HTML5, CSS, JavaScript, Bootstrap
+- &nbsp; Web Dev Tools : Spring MVC, Hibernate, JPA Repository, 
+      JavaScript, OAuth 2.0
 - &nbsp; Databases and Platforms: 
 Oracle 12c, MySQL, PostgreSQL MongoDB, ELK(Elasticsearch, Logstash, Kibana) stack
 - &nbsp; Cloud Technologies: AWS, Apache Hadoop
