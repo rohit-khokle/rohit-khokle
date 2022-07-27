@@ -12,9 +12,7 @@
 - &nbsp;3+ years of experience working at various Organisation on various languages and 
         frameworks in a microservices-based CI/CD environment in an agile setting. 
 
-- &nbsp;Currently Co-op with New York Life as a Cloud Engineer working with the Back-End team contributing towards the robust 
-        and error-less Software Product Development
-
+- &nbsp;Currently working as a Full Stack Engineer at MathWorks.
 
 <table width="100%"> 
   <tr>
