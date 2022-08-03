@@ -5,6 +5,7 @@
   <tr>
     <td> <h3> 👨🏻‍ &nbsp;About Me </h3>
 
+- &nbsp;Currently working as a Full Stack Engineer II at MathWorks.
 
 - &nbsp;Graduate student at Northeastern University with a master’s degree in Information Systems, 
        having a passion for the Software Development and Web Technologies 
@@ -12,7 +13,6 @@
 - &nbsp;3+ years of experience working at various Organisation on various languages and 
         frameworks in a microservices-based CI/CD environment in an agile setting. 
 
-- &nbsp;Currently working as a Full Stack Engineer II at MathWorks.
 
 <table width="100%"> 
   <tr>
